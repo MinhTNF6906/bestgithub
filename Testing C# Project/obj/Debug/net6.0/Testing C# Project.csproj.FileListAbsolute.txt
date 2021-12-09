@@ -1,0 +1,15 @@
+D:\Code\GitHub\bestgithub\Testing C# Project\bin\Debug\net6.0\Testing C# Project.exe
+D:\Code\GitHub\bestgithub\Testing C# Project\bin\Debug\net6.0\Testing C# Project.deps.json
+D:\Code\GitHub\bestgithub\Testing C# Project\bin\Debug\net6.0\Testing C# Project.runtimeconfig.json
+D:\Code\GitHub\bestgithub\Testing C# Project\bin\Debug\net6.0\Testing C# Project.dll
+D:\Code\GitHub\bestgithub\Testing C# Project\bin\Debug\net6.0\ref\Testing C# Project.dll
+D:\Code\GitHub\bestgithub\Testing C# Project\bin\Debug\net6.0\Testing C# Project.pdb
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.csproj.AssemblyReference.cache
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.AssemblyInfoInputs.cache
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.AssemblyInfo.cs
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.dll
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\ref\Testing C# Project.dll
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.pdb
+D:\Code\GitHub\bestgithub\Testing C# Project\obj\Debug\net6.0\Testing C# Project.genruntimeconfig.cache
